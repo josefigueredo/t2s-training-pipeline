@@ -1,0 +1,23 @@
+[project]
+name = "vyvo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "accelerate>=1.10.0",
+    "bitsandbytes>=0.47.0",
+    "datasets>=4.0.0",
+    "peft>=0.17.0",
+    "snac",
+    "soundfile>=0.13.1",
+    "torch>=2.8.0",
+    "torchaudio>=2.8.0",
+    "transformers>=4.55.2",
+    "trl==0.10.1",
+    "unsloth>=2025.7.2",
+    "unsloth-zoo>=2025.7.4",
+]
+
+[tool.uv.sources]
+snac = { git = "https://github.com/hubertsiuzdak/snac.git" }

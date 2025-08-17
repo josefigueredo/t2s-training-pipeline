@@ -1,0 +1,10 @@
+.claude
+.history
+data/.venv
+nemo/.venv
+vyvo/.venv
+vyvo/unsloth_compiled_cache
+.env
+CLAUDE.md
+video_generation_prompts.md
+video_script.md

@@ -1,0 +1,41 @@
+# configs/fastpitch_single_speaker_8gb.yaml
+# Single-speaker FastPitch tuned for ~8 GB GPU with mixed precision.
+trainer:
+  accelerator: gpu
+  devices: 1
+  precision: 16-mixed
+  max_epochs: 80
+  log_every_n_steps: 10
+  gradient_clip_val: 1.0
+  accumulate_grad_batches: 4
+  enable_checkpointing: false
+
+model:
+  sample_rate: 22050
+  n_mel_channels: 80
+  symbols_embedding_dim: 256
+  pitch_embedding: true
+  pitch_fmin: 80.0
+  pitch_fmax: 760.0
+  hop_length: 256
+  win_length: 1024
+  n_fft: 1024
+  mel_fmin: 0.0
+  mel_fmax: 8000.0
+  train_ds:
+    manifest_filepath: data/manifest_train.json
+    sup_data_path: null
+    dataset:
+      _target_: nemo.collections.tts.data.datalayers.AudioToCharWithDursDataset
+      load_audio: true
+      max_duration: 12.0
+      min_duration: 0.3
+      trim_silence: true
+  validation_ds: null
+  optim:
+    name: adamw
+    lr: 2.0e-4
+    weight_decay: 1.0e-6
+    sched:
+      name: CosineAnnealing
+      min_lr: 1.0e-5

@@ -1,0 +1,27 @@
+# configs/hifigan_small_8gb.yaml
+# Small HiFi-GAN to fit 8 GB; train on mels produced by FastPitch settings above.
+trainer:
+  accelerator: gpu
+  devices: 1
+  precision: 16-mixed
+  max_epochs: 200
+  log_every_n_steps: 10
+  accumulate_grad_batches: 1
+  enable_checkpointing: false
+
+model:
+  sample_rate: 22050
+  n_mel_channels: 80
+  hop_length: 256
+  segment_size: 8192
+  mel_fmin: 0.0
+  mel_fmax: 8000.0
+  denoiser_strength: 0.0
+  train_ds:
+    manifest_filepath: data/manifest_train.json
+    sup_data_path: null
+  optim:
+    name: adamw
+    lr: 2.0e-4
+    betas: [0.8, 0.99]
+    weight_decay: 0.0

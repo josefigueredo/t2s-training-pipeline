@@ -1,0 +1,450 @@
+Ten, twenty, thirty, forty, fifty. (2020)
+Ten, twenty, thirty, forty, fifty.
+Open the window, please.
+Do you prefer cats or dogs?
+We will travel to Argentina next year.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Ten, twenty, thirty, forty, fifty. (2027)
+Close the door before you leave.
+Open the window, please.
+One, two, three, four, five.
+I need to finish my work before dinner.
+I like to drink coffee in the morning.
+My favorite color is blue, but I also like green.
+Close the door before you leave. (2024)
+January, February, March, April, May.
+Tomorrow is August sixteenth, twenty twenty-five.
+I enjoy reading science fiction novels.
+We will travel to Argentina next year.
+She studies computer science at the university.
+My name is Jose, and I am from Buenos Aires.
+I need to finish my work before dinner. (2021)
+Artificial intelligence is transforming the world.
+Please repeat that again slowly.
+Technology is advancing at an incredible pace.
+Please repeat that again slowly.
+Ten, twenty, thirty, forty, fifty.
+We will travel to Argentina next year.
+Take the second street on the right. (2028)
+Take the second street on the right.
+Cloud computing enables scalable applications.
+The weather today is sunny and warm.
+Take the second street on the right.
+Artificial intelligence is transforming the world.
+Tomorrow is August sixteenth, twenty twenty-five.
+Can you tell me how to get to the nearest station? (2025)
+Open the window, please.
+I enjoy reading science fiction novels.
+Take the second street on the right.
+My favorite color is blue, but I also like green.
+Tomorrow is August sixteenth, twenty twenty-five.
+I enjoy reading science fiction novels.
+Monday, Tuesday, Wednesday, Thursday, Friday. (2022)
+Please repeat that again slowly.
+He bought twenty-three books for his library.
+Please repeat that again slowly.
+Artificial intelligence is transforming the world.
+January, February, March, April, May.
+I enjoy reading science fiction novels.
+I enjoy reading science fiction novels. (2029)
+Hello, how are you today?
+The quick brown fox jumps over the lazy dog.
+I like to drink coffee in the morning.
+Hello, how are you today?
+Hello, how are you today?
+Can you tell me how to get to the nearest station?
+Close the door before you leave. (2026)
+She studies computer science at the university.
+This is an example of a training sentence.
+She studies computer science at the university.
+My name is Jose, and I am from Buenos Aires.
+Ten, twenty, thirty, forty, fifty.
+The weather today is sunny and warm.
+I enjoy reading science fiction novels. (2023)
+Monday, Tuesday, Wednesday, Thursday, Friday.
+I need to finish my work before dinner.
+The quick brown fox jumps over the lazy dog.
+Cloud computing enables scalable applications.
+January, February, March, April, May.
+Close the door before you leave.
+Please repeat that again slowly. (2020)
+This is an example of a training sentence.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Cloud computing enables scalable applications.
+I enjoy reading science fiction novels.
+Ten, twenty, thirty, forty, fifty.
+Hello, how are you today?
+She studies computer science at the university. (2027)
+Close the door before you leave.
+Can you tell me how to get to the nearest station?
+We will travel to Argentina next year.
+We will travel to Argentina next year.
+Technology is advancing at an incredible pace.
+This is an example of a training sentence.
+Technology is advancing at an incredible pace. (2024)
+My name is Jose, and I am from Buenos Aires.
+Cloud computing enables scalable applications.
+The quick brown fox jumps over the lazy dog.
+My name is Jose, and I am from Buenos Aires.
+My favorite color is blue, but I also like green.
+Tomorrow is August sixteenth, twenty twenty-five.
+This is an example of a training sentence. (2021)
+She studies computer science at the university.
+My name is Jose, and I am from Buenos Aires.
+Can you tell me how to get to the nearest station?
+My favorite color is blue, but I also like green.
+My name is Jose, and I am from Buenos Aires.
+She studies computer science at the university.
+I enjoy reading science fiction novels. (2028)
+Do you prefer cats or dogs?
+Artificial intelligence is transforming the world.
+My name is Jose, and I am from Buenos Aires.
+Close the door before you leave.
+We will travel to Argentina next year.
+I need to finish my work before dinner.
+Close the door before you leave. (2025)
+Tomorrow is August sixteenth, twenty twenty-five.
+One, two, three, four, five.
+Cloud computing enables scalable applications.
+I enjoy reading science fiction novels.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+She studies computer science at the university.
+Artificial intelligence is transforming the world. (2022)
+Can you tell me how to get to the nearest station?
+Do you prefer cats or dogs?
+Let's meet at five o'clock in the afternoon.
+We will travel to Argentina next year.
+I enjoy reading science fiction novels.
+Cloud computing enables scalable applications.
+January, February, March, April, May. (2029)
+Technology is advancing at an incredible pace.
+Close the door before you leave.
+One, two, three, four, five.
+Cloud computing enables scalable applications.
+Cloud computing enables scalable applications.
+Please repeat that again slowly.
+January, February, March, April, May. (2026)
+Ten, twenty, thirty, forty, fifty.
+Open the window, please.
+Close the door before you leave.
+Tomorrow is August sixteenth, twenty twenty-five.
+Artificial intelligence is transforming the world.
+I need to finish my work before dinner.
+We will travel to Argentina next year. (2023)
+My favorite color is blue, but I also like green.
+Hello, how are you today?
+My name is Jose, and I am from Buenos Aires.
+Hello, how are you today?
+Monday, Tuesday, Wednesday, Thursday, Friday.
+He bought twenty-three books for his library.
+Hello, how are you today? (2020)
+Please repeat that again slowly.
+One, two, three, four, five.
+She studies computer science at the university.
+He bought twenty-three books for his library.
+I enjoy reading science fiction novels.
+The weather today is sunny and warm.
+I like to drink coffee in the morning. (2027)
+Cloud computing enables scalable applications.
+Let's meet at five o'clock in the afternoon.
+Close the door before you leave.
+Close the door before you leave.
+I enjoy reading science fiction novels.
+My name is Jose, and I am from Buenos Aires.
+He bought twenty-three books for his library. (2024)
+My favorite color is blue, but I also like green.
+Close the door before you leave.
+We will travel to Argentina next year.
+My name is Jose, and I am from Buenos Aires.
+My favorite color is blue, but I also like green.
+Tomorrow is August sixteenth, twenty twenty-five.
+The weather today is sunny and warm. (2021)
+He bought twenty-three books for his library.
+She studies computer science at the university.
+Cloud computing enables scalable applications.
+We will travel to Argentina next year.
+Close the door before you leave.
+We will travel to Argentina next year.
+I enjoy reading science fiction novels. (2028)
+Technology is advancing at an incredible pace.
+Please repeat that again slowly.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+He bought twenty-three books for his library.
+The quick brown fox jumps over the lazy dog.
+Can you tell me how to get to the nearest station?
+Artificial intelligence is transforming the world. (2025)
+Hello, how are you today?
+Technology is advancing at an incredible pace.
+Cloud computing enables scalable applications.
+Hello, how are you today?
+She studies computer science at the university.
+Artificial intelligence is transforming the world.
+The weather today is sunny and warm. (2022)
+Artificial intelligence is transforming the world.
+My name is Jose, and I am from Buenos Aires.
+January, February, March, April, May.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Tomorrow is August sixteenth, twenty twenty-five.
+This is an example of a training sentence.
+The weather today is sunny and warm. (2029)
+The quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
+Can you tell me how to get to the nearest station?
+Technology is advancing at an incredible pace.
+One, two, three, four, five.
+I need to finish my work before dinner.
+Please repeat that again slowly. (2026)
+This is an example of a training sentence.
+I like to drink coffee in the morning.
+She studies computer science at the university.
+Can you tell me how to get to the nearest station?
+He bought twenty-three books for his library.
+January, February, March, April, May.
+January, February, March, April, May. (2023)
+My favorite color is blue, but I also like green.
+One, two, three, four, five.
+One, two, three, four, five.
+Ten, twenty, thirty, forty, fifty.
+January, February, March, April, May.
+I like to drink coffee in the morning.
+I like to drink coffee in the morning. (2020)
+She studies computer science at the university.
+Hello, how are you today?
+My name is Jose, and I am from Buenos Aires.
+January, February, March, April, May.
+Take the second street on the right.
+This is an example of a training sentence.
+My favorite color is blue, but I also like green. (2027)
+I need to finish my work before dinner.
+Artificial intelligence is transforming the world.
+Ten, twenty, thirty, forty, fifty.
+Ten, twenty, thirty, forty, fifty.
+One, two, three, four, five.
+I like to drink coffee in the morning.
+Can you tell me how to get to the nearest station? (2024)
+Cloud computing enables scalable applications.
+My favorite color is blue, but I also like green.
+Tomorrow is August sixteenth, twenty twenty-five.
+She studies computer science at the university.
+Close the door before you leave.
+We will travel to Argentina next year.
+We will travel to Argentina next year. (2021)
+One, two, three, four, five.
+I like to drink coffee in the morning.
+Can you tell me how to get to the nearest station?
+Open the window, please.
+I like to drink coffee in the morning.
+Cloud computing enables scalable applications.
+We will travel to Argentina next year. (2028)
+I need to finish my work before dinner.
+Tomorrow is August sixteenth, twenty twenty-five.
+My name is Jose, and I am from Buenos Aires.
+One, two, three, four, five.
+Cloud computing enables scalable applications.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Hello, how are you today? (2025)
+My name is Jose, and I am from Buenos Aires.
+The weather today is sunny and warm.
+Open the window, please.
+The weather today is sunny and warm.
+He bought twenty-three books for his library.
+Technology is advancing at an incredible pace.
+He bought twenty-three books for his library. (2022)
+Monday, Tuesday, Wednesday, Thursday, Friday.
+My name is Jose, and I am from Buenos Aires.
+The weather today is sunny and warm.
+My favorite color is blue, but I also like green.
+Let's meet at five o'clock in the afternoon.
+I like to drink coffee in the morning.
+The quick brown fox jumps over the lazy dog. (2029)
+Technology is advancing at an incredible pace.
+My favorite color is blue, but I also like green.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Artificial intelligence is transforming the world.
+One, two, three, four, five.
+Tomorrow is August sixteenth, twenty twenty-five.
+My name is Jose, and I am from Buenos Aires. (2026)
+Do you prefer cats or dogs?
+Good morning, good afternoon, good evening, good night.
+The weather today is sunny and warm.
+One, two, three, four, five.
+Artificial intelligence is transforming the world.
+My favorite color is blue, but I also like green.
+My name is Jose, and I am from Buenos Aires. (2023)
+This is an example of a training sentence.
+January, February, March, April, May.
+Tomorrow is August sixteenth, twenty twenty-five.
+I need to finish my work before dinner.
+I like to drink coffee in the morning.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Please repeat that again slowly. (2020)
+My name is Jose, and I am from Buenos Aires.
+Artificial intelligence is transforming the world.
+Hello, how are you today?
+We will travel to Argentina next year.
+I like to drink coffee in the morning.
+The weather today is sunny and warm.
+Let's meet at five o'clock in the afternoon. (2027)
+He bought twenty-three books for his library.
+Ten, twenty, thirty, forty, fifty.
+Hello, how are you today?
+Close the door before you leave.
+The quick brown fox jumps over the lazy dog.
+The weather today is sunny and warm.
+January, February, March, April, May. (2024)
+I enjoy reading science fiction novels.
+This is an example of a training sentence.
+Hello, how are you today?
+I like to drink coffee in the morning.
+He bought twenty-three books for his library.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+This is an example of a training sentence. (2021)
+I like to drink coffee in the morning.
+Can you tell me how to get to the nearest station?
+I enjoy reading science fiction novels.
+Take the second street on the right.
+Open the window, please.
+I enjoy reading science fiction novels.
+Please repeat that again slowly. (2028)
+One, two, three, four, five.
+She studies computer science at the university.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+We will travel to Argentina next year.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Cloud computing enables scalable applications.
+Can you tell me how to get to the nearest station? (2025)
+Cloud computing enables scalable applications.
+January, February, March, April, May.
+Cloud computing enables scalable applications.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+Open the window, please.
+This is an example of a training sentence.
+Technology is advancing at an incredible pace. (2022)
+My name is Jose, and I am from Buenos Aires.
+One, two, three, four, five.
+Can you tell me how to get to the nearest station?
+She studies computer science at the university.
+January, February, March, April, May.
+Ten, twenty, thirty, forty, fifty.
+The weather today is sunny and warm. (2029)
+He bought twenty-three books for his library.
+Good morning, good afternoon, good evening, good night.
+Close the door before you leave.
+One, two, three, four, five.
+I need to finish my work before dinner.
+Can you tell me how to get to the nearest station?
+Let's meet at five o'clock in the afternoon. (2026)
+I like to drink coffee in the morning.
+Tomorrow is August sixteenth, twenty twenty-five.
+One, two, three, four, five.
+Can you tell me how to get to the nearest station?
+The quick brown fox jumps over the lazy dog.
+I like to drink coffee in the morning.
+Cloud computing enables scalable applications. (2023)
+One, two, three, four, five.
+Tomorrow is August sixteenth, twenty twenty-five.
+Artificial intelligence is transforming the world.
+Let's meet at five o'clock in the afternoon.
+Take the second street on the right.
+Technology is advancing at an incredible pace.
+Close the door before you leave. (2020)
+I like to drink coffee in the morning.
+He bought twenty-three books for his library.
+The weather today is sunny and warm.
+I enjoy reading science fiction novels.
+He bought twenty-three books for his library.
+Let's meet at five o'clock in the afternoon.
+Please repeat that again slowly. (2027)
+My favorite color is blue, but I also like green.
+He bought twenty-three books for his library.
+My favorite color is blue, but I also like green.
+The weather today is sunny and warm.
+Technology is advancing at an incredible pace.
+Artificial intelligence is transforming the world.
+Hello, how are you today? (2024)
+I like to drink coffee in the morning.
+He bought twenty-three books for his library.
+Hello, how are you today?
+Good morning, good afternoon, good evening, good night.
+I like to drink coffee in the morning.
+Cloud computing enables scalable applications.
+Please repeat that again slowly. (2021)
+One, two, three, four, five.
+She studies computer science at the university.
+Cloud computing enables scalable applications.
+We will travel to Argentina next year.
+Do you prefer cats or dogs?
+One, two, three, four, five.
+Open the window, please. (2028)
+He bought twenty-three books for his library.
+Can you tell me how to get to the nearest station?
+One, two, three, four, five.
+Open the window, please.
+This is an example of a training sentence.
+Technology is advancing at an incredible pace.
+Close the door before you leave. (2025)
+The weather today is sunny and warm.
+Artificial intelligence is transforming the world.
+My favorite color is blue, but I also like green.
+One, two, three, four, five.
+Artificial intelligence is transforming the world.
+Artificial intelligence is transforming the world.
+Ten, twenty, thirty, forty, fifty. (2022)
+Please repeat that again slowly.
+Cloud computing enables scalable applications.
+The weather today is sunny and warm.
+I enjoy reading science fiction novels.
+This is an example of a training sentence.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+The quick brown fox jumps over the lazy dog. (2029)
+My favorite color is blue, but I also like green.
+Let's meet at five o'clock in the afternoon.
+Artificial intelligence is transforming the world.
+Good morning, good afternoon, good evening, good night.
+This is an example of a training sentence.
+Artificial intelligence is transforming the world.
+She studies computer science at the university. (2026)
+Artificial intelligence is transforming the world.
+Take the second street on the right.
+Take the second street on the right.
+Ten, twenty, thirty, forty, fifty.
+Please repeat that again slowly.
+We will travel to Argentina next year.
+Technology is advancing at an incredible pace. (2023)
+Open the window, please.
+Artificial intelligence is transforming the world.
+I like to drink coffee in the morning.
+January, February, March, April, May.
+We will travel to Argentina next year.
+Technology is advancing at an incredible pace.
+Can you tell me how to get to the nearest station? (2020)
+Close the door before you leave.
+Take the second street on the right.
+Monday, Tuesday, Wednesday, Thursday, Friday.
+The weather today is sunny and warm.
+Close the door before you leave.
+One, two, three, four, five.
+He bought twenty-three books for his library. (2027)
+January, February, March, April, May.
+Ten, twenty, thirty, forty, fifty.
+My favorite color is blue, but I also like green.
+Good morning, good afternoon, good evening, good night.
+I need to finish my work before dinner.
+Cloud computing enables scalable applications.
+I enjoy reading science fiction novels. (2024)
+Take the second street on the right.
+He bought twenty-three books for his library.
+My name is Jose, and I am from Buenos Aires.
+Tomorrow is August sixteenth, twenty twenty-five.
+Open the window, please.
+Hello, how are you today?
+Do you prefer cats or dogs? (2021)
+She studies computer science at the university.
+She studies computer science at the university.
+Tomorrow is August sixteenth, twenty twenty-five.
+Open the window, please.
+We will travel to Argentina next year.
+Please repeat that again slowly.
+He bought twenty-three books for his library. (2028)
+My name is Jose, and I am from Buenos Aires.
